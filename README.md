@@ -1,0 +1,1 @@
+This repository contains the scripts for the flow alteration group associated with the Powell Center group "A global synthesis of land-surface fluxes under natural and human-altered watersheds using the Budyko framework" 
