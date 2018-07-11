@@ -26,7 +26,7 @@ build_sitelist <- function(HUC_upper_CO,HUC_lower_CO,HUC_CO) {
   
   attr_df <- attr(atr_base,"siteInfo")
   
-  site_list <- bind_cols(sites_basin,attr_df)
+  site_list <- full_join(sites_basin,attr_df,by="site_no")
   
   return(site_list)
 }
