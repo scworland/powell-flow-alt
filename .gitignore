@@ -9,10 +9,5 @@
 **/*.Rapp.history
 **/*.Rproj.user
 **/*.DS_Store
-**/*.
+**/*.Ruserdata
 
-
-.Rproj.user
-.Rhistory
-.RData
-.Ruserdata
